@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/usabilitydynamics/node-wordpress-client.png?label=ready&title=Ready)](https://waffle.io/usabilitydynamics/node-wordpress-client)
 [![Dependency Status](https://david-dm.org/UsabilityDynamics/node-wordpress-client/status.svg)
 [![Master status](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/master.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/master.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)
 [![Dev status](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/dev.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/dev.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)
