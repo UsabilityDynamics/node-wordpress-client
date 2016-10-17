@@ -18,13 +18,12 @@ resources:
 ## Methods
 Instance methods resemble WordPress functions used in PHP development.
 
-* client.insertPost()
-* client.uploadFile()
+* `client.insertPost()` - Insert a regular post.
+* `client.uploadFile()` - Upload a file to a site.
 
 ## Usage
 
 ```javascript
-
 // Load module and create an instance.
 var client = require( 'wordpress-client' ).create({
   url: 'http://my-site.com/xmlrpc.php',
@@ -32,12 +31,11 @@ var client = require( 'wordpress-client' ).create({
   password: 'secret-password'
 });
 
-// Uplaod File
+// Upload File
 client.uploadFile({
   'name': 'my_file.jpg',
   'bits': require( 'fs' ).readFileSync( './path/to/file.jpeg' )
 });
-
 ```
 
 ## Notes
