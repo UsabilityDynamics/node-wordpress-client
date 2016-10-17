@@ -1,9 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/usabilitydynamics/node-wordpress-client.png?label=ready&title=Ready)](https://waffle.io/usabilitydynamics/node-wordpress-client)
-[![Dependency status](https://david-dm.org/UsabilityDynamics/node-wordpress-client.png)](https://david-dm.org/UsabilityDynamics/node-wordpress-client#info=dependencies&view=table)
-[![Dev Dependency Status](https://david-dm.org/UsabilityDynamics/node-wordpress-client/dev-status.png)](https://david-dm.org/UsabilityDynamics/node-wordpress-client#info=devDependencies&view=table)
+[![Dependency Status](https://david-dm.org/UsabilityDynamics/node-wordpress-client/status.svg)
 [![Master status](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/master.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/master.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)
 [![Dev status](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/dev.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)](https://circleci.com/gh/UsabilityDynamics/node-wordpress-client/tree/dev.png?circle-token=ad785bf3e72f75e3aae0b2f4897fe100f8538e34)
-[![Build Status](https://travis-ci.org/UsabilityDynamics/node-wordpress-client.svg?branch=dev)](https://travis-ci.org/UsabilityDynamics/node-wordpress-client)
 [![Code Climate](https://codeclimate.com/github/UsabilityDynamics/node-wordpress-client.png)](https://codeclimate.com/github/UsabilityDynamics/node-wordpress-client)
 
 WordPress XML-RPC client.
